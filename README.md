@@ -21,7 +21,7 @@ You can install **My Go CLI Tool** on different platforms as follows:
 
    - **For Linux/macOS**:
      ```bash
-     curl -LO https://github.com/Itzhep/go-cli/releases/download/v1.0.0/go-cli
+     curl -LO https://github.com/Itzhep/go-cli/releases/download/v1.0.0/go-cli.exe
      chmod +x my-go-cli
      sudo mv my-go-cli /usr/local/bin/
      ```
