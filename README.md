@@ -31,7 +31,11 @@ You can install **My Go CLI Tool** on different platforms as follows:
      curl -LO https://github.com/Itzhep/my-go-cli/releases/download/v1.0.0/go-cli.exe
      move go-cli.exe C:\path\to\your\bin
      ```
-3. **Configuration via JSON**
+     📓 Note : if it dosnt work run it from src by :
+     ```bash
+      go run Go-CLI.go
+     ```
+ 3. **Configuration via JSON**
 You can also configure your project setup using a JSON configuration file. Create a file with the following format:
 
 ```json
