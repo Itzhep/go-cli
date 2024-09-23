@@ -28,7 +28,7 @@ You can install **My Go CLI Tool** on different platforms as follows:
 
    - **For Windows**:
      ```powershell
-     curl -LO https://github.com/Itzhep/my-go-cli/releases/download/v1.0.0/go-cli.exe
+     curl -LO https://github.com/Itzhep/go-cli/releases/download/v1.0.0/go-cli.exe
      move go-cli.exe C:\path\to\your\bin
      ```
      📓 Note : if it dosnt work run it from src by :
